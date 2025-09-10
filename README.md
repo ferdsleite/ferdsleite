@@ -53,11 +53,9 @@ With **19 years** in the digital industry as partner and operations manager of a
 🤝 Team collaboration & project management  
 
 ## Connect With Me
-
 <a href="https://www.linkedin.com/in/fernandaleitedepaula" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain-wordmark.svg" width="80px" /></a>
           
           
-
 > *"Combining web industry expertise with modern front-end development."*
 
 
