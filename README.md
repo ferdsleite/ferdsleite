@@ -1,4 +1,4 @@
-## Hello everyone, I'm Fernanda Leite 👨‍💻
+## Hello everyone, I'm Fernanda Leite 👋
 
 🌟 **Front-End Developer** transitioning to modern JavaScript frameworks, focused on building intuitive user experiences and optimized web solutions.
 
@@ -54,7 +54,8 @@ With **19 years** in the digital industry as partner and operations manager of a
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/fernandaleitedepaula/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width:"30px" href="https://www.linkedin.com/in/fernandaleitedepaula/ target_blank" />
+          
 
 > *"Combining web industry expertise with modern front-end development."*
 
