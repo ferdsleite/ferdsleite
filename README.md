@@ -8,7 +8,7 @@ With **19 years** in the digital industry as partner and operations manager of a
 
 ### Tech Stack
 
-**Modern Development:**
+⚡ **Modern Development:**
 - Front-End:
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +42,7 @@ With **19 years** in the digital industry as partner and operations manager of a
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-**Background:**
+🎯 **Background:**
 - WordPress development & customization
 - Technical SEO optimization
 - UI/UX design & wireframing
@@ -56,11 +56,9 @@ With **19 years** in the digital industry as partner and operations manager of a
 🤝 Team collaboration & project management  
 
 
-
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/fernandaleitedepaula/))
 
 > *"Combining web industry expertise with modern front-end development."*
 
