@@ -1,6 +1,6 @@
 ## Hello everyone, I'm Fernanda Leite 👨‍💻
 
-🌟 **Front-End Developer** passionate about modern JavaScript frameworks and creating exceptional user experiences.
+🌟 **Front-End Developer** developing expertise in modern JavaScript frameworks, focused on building intuitive user experiences and optimized web solutions.
 
 ### About Me
 
