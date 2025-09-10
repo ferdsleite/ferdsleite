@@ -1,6 +1,6 @@
 ## Hello everyone, I'm Fernanda Leite 👨‍💻
 
-🌟 **Front-End Developer** developing expertise in modern JavaScript frameworks, focused on building intuitive user experiences and optimized web solutions.
+🌟 **Front-End Developer** transitioning to modern JavaScript frameworks, focused on building intuitive user experiences and optimized web solutions.
 
 ### About Me
 
@@ -26,7 +26,7 @@ With **19 years** in the digital industry as partner and operations manager of a
 ⚡ Performance mindset from years of optimization  
 🤝 Team collaboration & project management  
 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Connect With Me
 
