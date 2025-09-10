@@ -1,14 +1,73 @@
-## Hello everyone 👋
+## Hello everyone, I'm Fernanda Leite 👨‍💻
 
-### I'm Fernanda Leite
+🌟 **Front-End Developer** passionate about modern JavaScript frameworks and creating exceptional user experiences.
 
-An aspiring front-end developer with a WordPress and technical SEO background, fascinated with the Modern JavaScript Stack World.
+### About Me
 
-After 19 years of experience in the digital sector as partner of a web development agency, I embarked on a specialization journey in front-end development. 
+With **19 years** in the digital industry as partner and operations manager of a web development agency, I'm now specializing in modern front-end development. My background spans technical implementation, team leadership, and creative direction.
 
-#### Skills I acquired so far:
+### Tech Stack
 
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+**Modern Development:**
+- JavaScript (ES6+) & TypeScript
+- React & Next.js
+- HTML5, CSS3, TailwindCSS
+
+**Background:**
+- WordPress development
+- Technical SEO
+- UI/UX design
+- Performance optimization
+
+## What I Bring
+
+🏆 Fresh modern skills + deep industry knowledge  
+🎯 User-focused approach from client experience  
+⚡ Performance mindset from years of optimization  
+🤝 Team collaboration & project management  
+
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
+
+> *"Combining web industry expertise with modern front-end development."*
+
+
+<!--
+# Hi! I'm [Your Name] 👨‍💻
+
+🌟 **Front-End Developer** passionate about modern JavaScript frameworks and creating exceptional user experiences.
+
+### About Me
+
+With **19 years** in the digital industry as partner and operations manager of a web development agency, I'm now specializing in modern front-end development. My background spans technical implementation, team leadership, and creative direction.
+
+### Tech Stack
+
+**Modern Development:**
+- JavaScript (ES6+) & TypeScript
+- React & Next.js
+- HTML5, CSS3, TailwindCSS
+
+**Background:**
+- WordPress development
+- Technical SEO
+- UI/UX design
+- Performance optimization
+
+## What I Bring
+
+🏆 Fresh modern skills + deep industry knowledge  
+🎯 User-focused approach from client experience  
+⚡ Performance mindset from years of optimization  
+🤝 Team collaboration & project management  
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email)
+
+> *"Combining web industry expertise with modern front-end development."*
+
+![image]({[BadgeURLHere]()})
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
@@ -21,9 +80,6 @@ https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-
 https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
 
-
-
-<!--
 **ferdsleite/ferdsleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
