@@ -54,7 +54,7 @@ With **19 years** in the digital industry as partner and operations manager of a
 
 ## Connect With Me
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width:"30px" href="https://www.linkedin.com/in/fernandaleitedepaula/ target_blank" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width:"30px" href="https://www.linkedin.com/in/fernandaleitedepaula/"/>
           
 
 > *"Combining web industry expertise with modern front-end development."*
