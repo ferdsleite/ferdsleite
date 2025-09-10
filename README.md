@@ -1,3 +1,5 @@
+![Imagem header welcome](./github-header-banner.png)
+
 ## Hello everyone, I'm Fernanda Leite 👋
 
 🌟 **Front-End Developer** transitioning to modern JavaScript frameworks, focused on building intuitive user experiences and optimized web solutions.
