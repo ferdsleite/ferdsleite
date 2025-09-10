@@ -18,7 +18,6 @@ With **19 years** in the digital industry as partner and operations manager of a
 ![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 - Frameworks & Libraries:
 
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -40,11 +39,6 @@ With **19 years** in the digital industry as partner and operations manager of a
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-- Version Control:
-  
-  -Git
-
-
 🎯 **Background:**
 - WordPress development & customization
 - Technical SEO optimization
@@ -58,10 +52,9 @@ With **19 years** in the digital industry as partner and operations manager of a
 ⚡ Performance mindset from years of optimization  
 🤝 Team collaboration & project management  
 
-
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/fernandaleitedepaula/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/fernandaleitedepaula/)
 
 > *"Combining web industry expertise with modern front-end development."*
 
