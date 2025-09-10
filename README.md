@@ -55,9 +55,5 @@ With **19 years** in the digital industry as partner and operations manager of a
 ## Connect With Me
 <a href="https://www.linkedin.com/in/fernandaleitedepaula" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain-wordmark.svg" width="80px" /></a>
 
-### Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdsleite)](https://github.com/ferdsleite/github-readme-stats)
-
-          
           
 > *"Combining web industry expertise with modern front-end development."*
