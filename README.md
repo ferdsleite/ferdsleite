@@ -6,7 +6,7 @@
 
 ### About Me
 
-With **19 years** in the digital industry as partner and operations manager of a web development agency, I'm now specializing in modern front-end development. My background spans technical implementation, team leadership, and creative direction.
+With **19 years** in the digital industry as partner and operations manager of a web development agency, I'm now specializing in modern front-end development. My background spans technical implementation, team collaboration, and creative direction.
 
 ### Tech Stack
 
